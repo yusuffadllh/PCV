@@ -5,7 +5,6 @@ Tugas mata kuliah Pengolahan Citra Digital (PCV).
 ## Isi Repo
 
 - `P1/Intro-1.py` — filter warna gambar & video real-time (webcam)
-- `P1/lihat_data.py` — lihat data mentah piksel gambar
 
 ## Cara Pakai
 
