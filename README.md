@@ -20,11 +20,9 @@ Jalankan:
 python P1/Intro-1.py
 ```
 
-## Yang Dipelajari
+## Fitur
 
-- Baca gambar dengan `cv2.imread`
-- Cek `dtype` dan `shape` gambar (tinggi, lebar, kanal)
-- Manipulasi piksel manual pakai loop `for`
-- Filter warna (matiin kanal hijau & biru, sisain merah)
-- Akses webcam & filter real-time dengan `cv2.VideoCapture`
+- Membaca file gambar
+- Filter warna pada gambar
+- Filter warna pada video dari webcam secara real-time
 
