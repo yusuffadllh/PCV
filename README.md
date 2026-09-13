@@ -1,23 +1,16 @@
 # PCV
 
-Tugas mata kuliah Pengolahan Citra Digital (PCV).
+Tugas 1 live code — mata kuliah Pengolahan Citra Digital (PCV).
 
-## Isi Repo
+## Requirements
 
-- `P1/Intro-1.py` — filter warna gambar & video real-time (webcam)
+- Python
+- OpenCV
 
-## Cara Pakai
-
-Install library dulu:
+Install library:
 
 ```
 pip install opencv-python
-```
-
-Jalankan:
-
-```
-python P1/Intro-1.py
 ```
 
 ## Fitur
