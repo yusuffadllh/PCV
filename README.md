@@ -28,3 +28,4 @@ python P1/Intro-1.py
 - Manipulasi piksel manual pakai loop `for`
 - Filter warna (matiin kanal hijau & biru, sisain merah)
 - Akses webcam & filter real-time dengan `cv2.VideoCapture`
+
