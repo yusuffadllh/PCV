@@ -1,6 +1,6 @@
 # PCV
 
-Tugas 1 live code — mata kuliah Pengolahan Citra Digital (PCV).
+Tugas 1 live code 
 
 ## Requirements
 
