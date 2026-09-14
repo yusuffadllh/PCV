@@ -1,7 +1,5 @@
 import cv2
 
-# Intro-1: filter warna (matiin kanal hijau sama biru -> sisain merah)
-
 image = cv2.imread("WhatsApp Image 2026-09-08 at 7.49.33 AM.jpeg")
 imgtype = image.dtype
 (h, w, c) = image.shape
